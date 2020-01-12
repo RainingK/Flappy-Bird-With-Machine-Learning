@@ -114,7 +114,7 @@ class Bird:
         return pygame.mask.from_surface(self.img)
 
 
-class Pipe():
+class Pipe:
     """
     represents a pipe object
     """
